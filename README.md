@@ -1,19 +1,19 @@
 # Crocodile of Death: Zombies
 
-Crocodile of Death: ZOMBIE (abbreviated to CoD Zombie) is a horde survival horror video game inspired by Call of Duty Zombies and developed in Unreal Engine 5.
-This is a project in which I worked alone, developed in less than a month as a delivery for the academy where I study.
+**Crocodile of Death: ZOMBIE** (abbreviated as **CoD: Zombie**) is a horde survival horror video game inspired by *Call of Duty Zombies* and developed in Unreal Engine 5.  
+This solo project was developed in less than a month as part of an assignment for the academy where I study.
 
-## How To Play
-1. Download the build [Releases](https://github.com/Erym03/Crocodile-of-Death--Zombies/releases/tag/Release)
+## 🎮 How to Play
+1. Download the build from the [Releases](https://github.com/Erym03/Crocodile-of-Death--Zombies/releases/tag/Release)
 2. Extract the `.zip` file
-3. Execute the `.exe` file
+3. Run the `.exe` file
 4. Enjoy the game!
 
-## 🖼️ Screenshot
-![Gameplay](screenshot/Screenshot%202025-05-10%20130635.png)
+## 🖼️ Screenshots
+![Gameplay](screenshot/Screenshot%202025-05-10%20130635.png)  
 ![Gameplay](screenshot/Screenshot%202025-05-10%20130708.png)
 
-## ⚙️Other info
-- Build in Unreal Engine 5
-- Build for Windows 64bit
-- Support mouse and keyboard
+## ⚙️ Technical Info
+- Built with **Unreal Engine 5**
+- Target platform: **Windows 64-bit**
+- Supports: **Mouse and Keyboard**
