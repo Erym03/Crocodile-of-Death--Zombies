@@ -10,8 +10,8 @@ This solo project was developed in less than a month as part of an assignment fo
 4. Enjoy the game!
 
 ## 🖼️ Screenshots
-![Gameplay](screenshot/Screenshot%202025-05-10%20130635.png)  
-![Gameplay](screenshot/Screenshot%202025-05-10%20130708.png)
+![Gameplay](screenshot/Screen1.png)  
+![Gameplay](screenshot/Screen2.png)
 
 ## ⚙️ Technical Info
 - Built with **Unreal Engine 5**
